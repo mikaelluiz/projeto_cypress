@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://fakerestapi.azurewebsites.net/api/v1/",
+  "testFiles": "**/*.spec*",
+  "projectId": "rhi3xx"
+}
